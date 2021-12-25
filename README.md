@@ -1,7 +1,7 @@
 # Movie Recommendation System
 
-### Try the fianl project at -
-<a href = "http://movie-dunia.herokuapp.com/">Click Me</a>
+### Try the final project at -
+<a href = "http://movie-dunia.herokuapp.com/">Click Here</a>
 
 ## 💡 Inspiration
 <p>
