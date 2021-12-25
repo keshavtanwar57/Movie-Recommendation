@@ -3,6 +3,8 @@
 ### Try the final project at -
 <a href = "http://movie-dunia.herokuapp.com/">Click Here</a>
 
+<img src="bird1.gif" alt="birds">
+
 ## 💡 Inspiration
 <p>
 Movies have always been a significant part of entertainment in our history, and particularly in 
